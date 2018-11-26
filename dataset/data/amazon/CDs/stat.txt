@@ -1,0 +1,4 @@
+self.num_users = 37204
+self.num_items = 13881
+self.vocab_size = 10104
+density = 0.0008178108233964152
