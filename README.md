@@ -20,7 +20,7 @@ Author: Chen Ma (allenmc1230@gmail.com)
 - sklearn (version: 0.19.1)
 
 
-## Example to run the codes		
+## Example to run the code
 
 Train and evaluate the model (you are strongly recommended to run the program on a machine with GPU):
 
