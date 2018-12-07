@@ -20,7 +20,16 @@ Author: Chen Ma (allenmc1230@gmail.com)
 - sklearn (version: 0.19.1)
 
 
+## Dataset
+
+In our experiments, the *citeulike-a* dataset is from http://www.wanghao.in/CDL.htm, the *movielens-20M* dataset is from https://grouplens.org/datasets/movielens/20m/, the *Amazon-CDs* and *Amazon-Books* datasets are from http://jmcauley.ucsd.edu/data/amazon/.
+
+
 ## Example to run the code
+
+Data preprocessing:
+
+The code for data preprocessing is put in the ```/preprocessing``` folder. ```Amazon_CDs.ipynb``` provides an example on how to transform the raw data into the ```.pickle``` files.
 
 Train and evaluate the model (you are strongly recommended to run the program on a machine with GPU):
 
