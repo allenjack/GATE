@@ -29,7 +29,7 @@ In our experiments, the *citeulike-a* dataset is from http://www.wanghao.in/CDL.
 
 Data preprocessing:
 
-The code for data preprocessing is put in the ```/preprocessing``` folder. ```Amazon_CDs.ipynb``` provides an example on how to transform the raw data into the ```.pickle``` files.
+The code for data preprocessing is put in the ```/preprocessing``` folder. ```Amazon_CDs.ipynb``` provides an example on how to transform the raw data into the ```.pickle``` files that used in our program.
 
 Train and evaluate the model (you are strongly recommended to run the program on a machine with GPU):
 
