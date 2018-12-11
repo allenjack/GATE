@@ -4,7 +4,7 @@ The implementation of the paper:
 *Chen Ma, Peng Kang, Bin Wu, Qinglong Wang, and Xue Liu, "**Gated Attentive-Autoencoder for Content-Aware
 Recommendation**", in the 12th ACM International Conference on Web Search and Data Mining (**WSDM 2019**)* 
 
-Arxiv: TBA
+Arxiv: https://arxiv.org/abs/1812.02869
 
 **Please cite our paper if you use our code. Thanks!**
 
