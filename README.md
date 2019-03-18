@@ -10,6 +10,21 @@ Arxiv: https://arxiv.org/abs/1812.02869
 
 Author: Chen Ma (allenmc1230@gmail.com)
 
+**Bibtex**
+```
+@inproceedings{DBLP:conf/wsdm/MaKWWL19,
+  author    = {Chen Ma and
+               Peng Kang and
+               Bin Wu and
+               Qinglong Wang and
+               Xue Liu},
+  title     = {Gated Attentive-Autoencoder for Content-Aware Recommendation},
+  booktitle = {{WSDM}},
+  pages     = {519--527},
+  publisher = {{ACM}},
+  year      = {2019}
+}
+```
 
 ## Environments
 
