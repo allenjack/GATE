@@ -37,7 +37,7 @@ Author: Chen Ma (allenmc1230@gmail.com)
 
 ## Dataset
 
-In our experiments, the *citeulike-a* dataset is from http://www.wanghao.in/CDL.htm, the *movielens-20M* dataset is from https://grouplens.org/datasets/movielens/20m/, the *Amazon-CDs* and *Amazon-Books* datasets are from http://jmcauley.ucsd.edu/data/amazon/.
+In our experiments, the *citeulike-a* dataset is from http://www.wanghao.in/CDL.htm, the *movielens-20M* dataset is from https://grouplens.org/datasets/movielens/20m/, the *Amazon-CDs* and *Amazon-Books* datasets are from http://jmcauley.ucsd.edu/data/amazon/. (If you need the data after preprocessing, please send me an email).
 
 
 ## Example to run the code
