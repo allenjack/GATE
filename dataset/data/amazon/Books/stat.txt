@@ -1,3 +1,0 @@
-self.num_users = 65476
-self.num_items = 41264
-self.vocab_size = 27584
